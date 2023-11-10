@@ -5,9 +5,6 @@
 
 Domain Detective is a command-line tool developed in Go (Golang) that allows users to perform various domain-related operations. It provides insights into a domain's DNS records, WHOIS data, and SSL certificate details.
 
-## Screenshot
-![image](https://github.com/Embe-Codez/DomainDetective/assets/74840238/5b26b7db-95a7-40d0-b55c-a35d7edfd73e)
-
 ## Features
 
 * DNS Lookup: Retrieve DNS records (A, CNAME, TXT) for a domain.
